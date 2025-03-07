@@ -5,11 +5,7 @@ title: Clin d'oeil beauté
 
 <section id="shopify-section-template--21965297516885__slideshow_zWC3nL"
 class="shopify-section shopify-section--stackable shopify-section--contrast offset-section">
-<div class="slideshow" data-section-id="template--21965297516885__slideshow_zWC3nL" data-section-type="slideshow" style="
-    --desktop-height: 55vh;
-    --mobile-height: 100vh;
-    --color-dot: #ffffff;
-  ">
+<div class="slideshow" data-section-id="template--21965297516885__slideshow_zWC3nL" data-section-type="slideshow" style="--desktop-height: 55vh; --mobile-height: 100vh; --color-dot: #ffffff;">
           <div class="slideshow__slides flickity-enabled is-draggable" data-slider="" data-autoplay="4000" tabindex="0">
             <div class="flickity-viewport" style="height: 454.075px; touch-action: pan-y;">
               <div class="flickity-slider" style="left: 0px; transform: translateX(-200%);">
@@ -159,7 +155,8 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
         </div>
 
         <!--
-</section><section id="shopify-section-template--21965297516885__rich_text_TtNitG" class="shopify-section shopify-section--stackable shopify-section--text-first"><div data-section-id="template--21965297516885__rich_text_TtNitG" data-section-type="rich-text" class="
+</section>
+<section id="shopify-section-template--21965297516885__rich_text_TtNitG" class="shopify-section shopify-section--stackable shopify-section--text-first"><div data-section-id="template--21965297516885__rich_text_TtNitG" data-section-type="rich-text" class="
     rich-text
     section
     section--vertical-padding-top-bottom
@@ -183,7 +180,8 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
 </div>
 
 
-</section><section id="shopify-section-template--21965297516885__image_with_text_YX6NRM" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
+</section>
+<section id="shopify-section-template--21965297516885__image_with_text_YX6NRM" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
     image-with-text
     image-with-text--image-left
     image-with-text--single-image
@@ -231,7 +229,8 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
 </div>
 
 
-</section><section id="shopify-section-template--21965297516885__image_with_text_XBPan7" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
+</section>
+<section id="shopify-section-template--21965297516885__image_with_text_XBPan7" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
     image-with-text
     image-with-text--image-right
     image-with-text--single-image
@@ -239,14 +238,7 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
     image-with-text--image-half
     image-with-text--align-center
     section
-    section--vertical-padding-top-bottom
-
-    
-
-    
-
-    
-  " data-section-id="template--21965297516885__image_with_text_XBPan7" data-section-type="image-with-text" style="--padding-amount: 0.5;">
+    section--vertical-padding-top-bottom" data-section-id="template--21965297516885__image_with_text_XBPan7" data-section-type="image-with-text" style="--padding-amount: 0.5;">
   <div class="image-with-text__inner section__inner">
     <div class="image-with-text__image-container"><div class="image-with-text__image-container-inner image-with-text__image--primary">
             <div class="image-with-text__image-wrapper">
@@ -327,24 +319,15 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
 </div>
 
 
-</section><section id="shopify-section-template--21965297516885__mosaic_grid_atBY9k" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
+</section>
+<section id="shopify-section-template--21965297516885__mosaic_grid_atBY9k" class="shopify-section shopify-section--stackable shopify-section--image-first"><div class="
     mosaic-grid
     section
-    section--vertical-padding-top-bottom
-
-    
-
-    
-
-    
-  " data-section-id="template--21965297516885__mosaic_grid_atBY9k" data-section-type="mosaic-grid" style="
+    section--vertical-padding-top-bottom" data-section-id="template--21965297516885__mosaic_grid_atBY9k" data-section-type="mosaic-grid" style="
     --text-max-width: 42rem;
     --padding-amount: 0.075;
   ">
   <div class="mosaic-grid__inner section__inner">
-    
-
-
     <div class="mosaic-grid__grid"><div class="mosaic-grid__item mosaic-grid__item--large-square animation-fade-up-reveal"><div class="
       mosaic-grid__item-inner
       mosaic-grid__item-inner--h-align-center
