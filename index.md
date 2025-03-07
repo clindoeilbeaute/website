@@ -1,20 +1,11 @@
 ---
 layout: default
-title: Home
+title: Clin d'oeil beauté
 ---
-
 
 <section id="shopify-section-template--21965297516885__slideshow_zWC3nL"
 class="shopify-section shopify-section--stackable shopify-section--contrast offset-section">
-<div class="
-slideshow
-
-    
-
-    
-
-    
-  " data-section-id="template--21965297516885__slideshow_zWC3nL" data-section-type="slideshow" style="
+<div class="slideshow" data-section-id="template--21965297516885__slideshow_zWC3nL" data-section-type="slideshow" style="
     --desktop-height: 55vh;
     --mobile-height: 100vh;
     --color-dot: #ffffff;
