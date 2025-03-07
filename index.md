@@ -139,7 +139,7 @@ class="shopify-section shopify-section--stackable shopify-section--contrast offs
                       <div class="slideshow__content-inner">
                         <h4 class="slideshow__heading ff-heading animation-fade-up-split-reveal animation-initialized"
                           style="null">
-                          Votre dépositaire des produits GERnétic.
+                          Votre dépositaire de produit GERnétic.
                         </h4>
                       </div>
                     </div>
