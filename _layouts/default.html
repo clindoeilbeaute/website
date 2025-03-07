@@ -8,289 +8,283 @@
     <title>{{ page.title }}</title>
     <style>
         @font-face {
-          font-family: "Georgia Pro";
-          font-weight: 400;
-          font-style: normal;
-          font-display: swap;
-          src: url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.8627e4332da2bd0ce4ceb6f91d3dd90e0888cdbb.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=ec8e04cc079540fccc785eef2683089d3daa72e40fdfe631e06159a38651fd92") format("woff2"),
-            url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.a32e7ac200a0d54820187634b1a89d4f8e2ee2ac.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=0d815738135ea33e02359f93502cb21cd6be4fde03690096b3ccd896683a1868") format("woff");
+            font-family: "Georgia Pro";
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            src: url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.8627e4332da2bd0ce4ceb6f91d3dd90e0888cdbb.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=ec8e04cc079540fccc785eef2683089d3daa72e40fdfe631e06159a38651fd92") format("woff2"),
+                url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.a32e7ac200a0d54820187634b1a89d4f8e2ee2ac.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=0d815738135ea33e02359f93502cb21cd6be4fde03690096b3ccd896683a1868") format("woff");
         }
-    
+
         @font-face {
-          font-family: "Georgia Pro";
-          font-weight: 400;
-          font-style: normal;
-          font-display: swap;
-          src: url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.8627e4332da2bd0ce4ceb6f91d3dd90e0888cdbb.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=ec8e04cc079540fccc785eef2683089d3daa72e40fdfe631e06159a38651fd92") format("woff2"),
-            url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.a32e7ac200a0d54820187634b1a89d4f8e2ee2ac.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=0d815738135ea33e02359f93502cb21cd6be4fde03690096b3ccd896683a1868") format("woff");
+            font-family: "Georgia Pro";
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            src: url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.8627e4332da2bd0ce4ceb6f91d3dd90e0888cdbb.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=ec8e04cc079540fccc785eef2683089d3daa72e40fdfe631e06159a38651fd92") format("woff2"),
+                url("//gernetic.com/cdn/fonts/georgia_pro/georgiapro_n4.a32e7ac200a0d54820187634b1a89d4f8e2ee2ac.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=0d815738135ea33e02359f93502cb21cd6be4fde03690096b3ccd896683a1868") format("woff");
         }
-    
-    
+
+
         @font-face {
-          font-family: Assistant;
-          font-weight: 400;
-          font-style: normal;
-          font-display: swap;
-          src: url("//gernetic.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=12bd12389bb6fe84119667285ca16729243ca30b5bbff92402cf51af7c94d662") format("woff2"),
-            url("//gernetic.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=e7286eb1c91933485a54f7ae36014f6440f50d9837c8340c99d2879b69be9649") format("woff");
+            font-family: Assistant;
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+            src: url("//gernetic.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=12bd12389bb6fe84119667285ca16729243ca30b5bbff92402cf51af7c94d662") format("woff2"),
+                url("//gernetic.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=e7286eb1c91933485a54f7ae36014f6440f50d9837c8340c99d2879b69be9649") format("woff");
         }
-    
+
         @font-face {
-          font-family: Assistant;
-          font-weight: 700;
-          font-style: normal;
-          font-display: swap;
-          src: url("//gernetic.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=c186f271937f12174df7fd38776179e8904a30359cfbfc06cfc4ed00f44b4c7e") format("woff2"),
-            url("//gernetic.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=9fe9ab7202ecb65f41feed898b8bf9c19e8e9954f159308a9d370303fd060112") format("woff");
+            font-family: Assistant;
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            src: url("//gernetic.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=c186f271937f12174df7fd38776179e8904a30359cfbfc06cfc4ed00f44b4c7e") format("woff2"),
+                url("//gernetic.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=NTA5ZjI2LTQuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Z2VybmV0aWMuY29t&hmac=9fe9ab7202ecb65f41feed898b8bf9c19e8e9954f159308a9d370303fd060112") format("woff");
         }
-    
-    
-    
-    
+
+
+
+
         :root {
-          --color-text: #101010;
-          --color-text-meta: rgba(16, 16, 16, 0.6);
-          --color-text-link: #2a5ddf;
-          --color-text-error: #C71B1B;
-          --color-text-success: #21b646;
-    
-          --color-background: #ffffff;
-          --color-background-transparent: rgba(255, 255, 255, 0.8);
-          --color-border: #aa961c;
-          --color-overlay: #000000;
-          --color-overlay-transparent: rgba(0, 0, 0, 0.6);
-    
-          --color-background-meta: #f5f5f5;
-          --color-background-darker-meta: #e8e8e8;
-          --color-foreground-meta: rgba(16, 16, 16, 0.6);
-    
-          --color-card-background: #f5f5f5;
-          --color-card-background-contrast: #300505;
-    
-          --color-border-input: #aa961c;
-          --color-text-input: #101010;
-    
-          --color-background-button: #ab9f55;
-          --color-background-button-hover: #676033;
-          --color-text-button: #ffffff;
-          --color-icon: rgba(16, 16, 16, 0.4);
-          --color-icon-darker: rgba(16, 16, 16, 0.6);
-    
-          --color-background-sale-badge: #aa1c1c;
-          --color-text-sale-badge: #ffffff;
-          --color-background-sold-badge: #000000;
-          --color-text-sold-badge: #ffffff;
-    
-          --color-background-contrast: #140202;
-          --color-background-meta-contrast: #270404;
-          --color-background-darker-meta-contrast: #100202;
-          --color-foreground-meta-contrast: rgba(255, 255, 255, 0.6);
-          --color-text-contrast: #ffffff;
-          --color-text-meta-contrast: rgba(255, 255, 255, 0.6);
-          --color-border-contrast: #ffffff;
-          --color-background-button-contrast: #ffffff;
-          --color-background-button-hover-contrast: #cccccc;
-          --color-text-button-contrast: #ffffff;
-          --color-text-link-contrast: #ffffff;
-    
-          --color-text-header: #080808;
-          --color-background-header: #ffffff;
-          --color-background-header-transparent: rgba(255, 255, 255, 0);
-          --color-icon-header: #080808;
-          --color-shadow-header: rgba(0, 0, 0, 0.15);
-    
-          --color-background-footer: #000000;
-          --color-text-footer: #ffffff;
-    
-          --color-text-popover: #080808;
-          --color-text-meta-popover: rgba(8, 8, 8, 0.6);
-          --color-background-popover: #FFFFFF;
-          --color-background-meta-popover: #f5f5f5;
-          --color-background-darker-meta-popover: #e8e8e8;
-          --color-background-button-popover: #ffffff;
-          --color-background-button-hover-popover: #cccccc;
-          --color-text-button-popover: #131313;
-          --color-border-popover: #3d3d3d;
-          --color-border-meta-popover: #0a0a0a;
-    
-          --button-style: none;
-          --button-shape: 0;
-    
-          --font-logo: "Georgia Pro", serif;
-          --font-logo-weight: 400;
-          --font-logo-style: normal;
-          --logo-font-size: 34px;
-          --logo-text-transform: uppercase;
-          --logo-letter-spacing: 0.05em;
-    
-          --font-heading: "Georgia Pro", serif;
-          --font-heading-weight: 400;
-          --font-heading-style: normal;
-          --font-heading-light-weight: light;
-          --font-heading-text-transform: none;
-          --font-heading-base-letter-spacing: -0.05em;
-          --font-heading-base-size: 36px;
-    
-          --font-body: Assistant, sans-serif;
-          --font-body-weight: 400;
-          --font-body-style: normal;
-          --font-body-italic: italic;
-          --font-body-bold-weight: 700;
-          --font-body-base-letter-spacing: 0.025em;
-          --font-body-base-size: 15px;
-          --font-body-base-line-height: 1.56;
-    
-          --font-product-title-text-transform: uppercase;
-          --font-product-title-base-letter-spacing: 0.025em;
-    
-          --font-navigation-text-transform: uppercase;
-          --font-navigation-base-letter-spacing: 0.025em;
-    
-          /* Typography */
-          --font-size-heading-1-large: 48px;
-          --line-height-heading-1-large: 44;
-    
-          --font-size-heading-1-base: 36px;
-          --line-height-heading-1-base: 1.08;
-    
-          --font-size-heading-2-large: 27px;
-          --line-height-heading-2-large: 1.22;
-    
-          --font-size-heading-2-base: 21px;
-          --line-height-heading-2-base: 1.29;
-    
-          --font-size-heading-3-base: 18px;
-          --line-height-heading-3-base: 1.33;
-    
-          --font-size-heading-4-base: 15px;
-          --line-height-heading-4-base: 1.4;
-    
-          --font-size-body-large: 20px;
-          --line-height-body-large: 1.5;
-    
-          --font-size-body-base: 15px;
-          --line-height-body-base: 1.56;
-    
-          --font-size-body-small: 13px;
-          --line-height-body-small: 1.75;
-    
-          --font-size-body-x-small: 12px;
-          --line-height-body-x-small: 1.85;
-    
-          --font-size-navigation-base: 16px;
-    
-          /* Shopify pay specific */
-          --payment-terms-background-color: #f5f5f5;
+            --color-text: #101010;
+            --color-text-meta: rgba(16, 16, 16, 0.6);
+            --color-text-link: #2a5ddf;
+            --color-text-error: #C71B1B;
+            --color-text-success: #21b646;
+
+            --color-background: #ffffff;
+            --color-background-transparent: rgba(255, 255, 255, 0.8);
+            --color-border: #aa961c;
+            --color-overlay: #000000;
+            --color-overlay-transparent: rgba(0, 0, 0, 0.6);
+
+            --color-background-meta: #f5f5f5;
+            --color-background-darker-meta: #e8e8e8;
+            --color-foreground-meta: rgba(16, 16, 16, 0.6);
+
+            --color-card-background: #f5f5f5;
+            --color-card-background-contrast: #300505;
+
+            --color-border-input: #aa961c;
+            --color-text-input: #101010;
+
+            --color-background-button: #ab9f55;
+            --color-background-button-hover: #676033;
+            --color-text-button: #ffffff;
+            --color-icon: rgba(16, 16, 16, 0.4);
+            --color-icon-darker: rgba(16, 16, 16, 0.6);
+
+            --color-background-sale-badge: #aa1c1c;
+            --color-text-sale-badge: #ffffff;
+            --color-background-sold-badge: #000000;
+            --color-text-sold-badge: #ffffff;
+
+            --color-background-contrast: #140202;
+            --color-background-meta-contrast: #270404;
+            --color-background-darker-meta-contrast: #100202;
+            --color-foreground-meta-contrast: rgba(255, 255, 255, 0.6);
+            --color-text-contrast: #ffffff;
+            --color-text-meta-contrast: rgba(255, 255, 255, 0.6);
+            --color-border-contrast: #ffffff;
+            --color-background-button-contrast: #ffffff;
+            --color-background-button-hover-contrast: #cccccc;
+            --color-text-button-contrast: #ffffff;
+            --color-text-link-contrast: #ffffff;
+
+            --color-text-header: #080808;
+            --color-background-header: #ffffff;
+            --color-background-header-transparent: rgba(255, 255, 255, 0);
+            --color-icon-header: #080808;
+            --color-shadow-header: rgba(0, 0, 0, 0.15);
+
+            --color-background-footer: #000000;
+            --color-text-footer: #ffffff;
+
+            --color-text-popover: #080808;
+            --color-text-meta-popover: rgba(8, 8, 8, 0.6);
+            --color-background-popover: #FFFFFF;
+            --color-background-meta-popover: #f5f5f5;
+            --color-background-darker-meta-popover: #e8e8e8;
+            --color-background-button-popover: #ffffff;
+            --color-background-button-hover-popover: #cccccc;
+            --color-text-button-popover: #131313;
+            --color-border-popover: #3d3d3d;
+            --color-border-meta-popover: #0a0a0a;
+
+            --button-style: none;
+            --button-shape: 0;
+
+            --font-logo: "Georgia Pro", serif;
+            --font-logo-weight: 400;
+            --font-logo-style: normal;
+            --logo-font-size: 34px;
+            --logo-text-transform: uppercase;
+            --logo-letter-spacing: 0.05em;
+
+            --font-heading: "Georgia Pro", serif;
+            --font-heading-weight: 400;
+            --font-heading-style: normal;
+            --font-heading-light-weight: light;
+            --font-heading-text-transform: none;
+            --font-heading-base-letter-spacing: -0.05em;
+            --font-heading-base-size: 36px;
+
+            --font-body: Assistant, sans-serif;
+            --font-body-weight: 400;
+            --font-body-style: normal;
+            --font-body-italic: italic;
+            --font-body-bold-weight: 700;
+            --font-body-base-letter-spacing: 0.025em;
+            --font-body-base-size: 15px;
+            --font-body-base-line-height: 1.56;
+
+            --font-product-title-text-transform: uppercase;
+            --font-product-title-base-letter-spacing: 0.025em;
+
+            --font-navigation-text-transform: uppercase;
+            --font-navigation-base-letter-spacing: 0.025em;
+
+            /* Typography */
+            --font-size-heading-1-large: 48px;
+            --line-height-heading-1-large: 44;
+
+            --font-size-heading-1-base: 36px;
+            --line-height-heading-1-base: 1.08;
+
+            --font-size-heading-2-large: 27px;
+            --line-height-heading-2-large: 1.22;
+
+            --font-size-heading-2-base: 21px;
+            --line-height-heading-2-base: 1.29;
+
+            --font-size-heading-3-base: 18px;
+            --line-height-heading-3-base: 1.33;
+
+            --font-size-heading-4-base: 15px;
+            --line-height-heading-4-base: 1.4;
+
+            --font-size-body-large: 20px;
+            --line-height-body-large: 1.5;
+
+            --font-size-body-base: 15px;
+            --line-height-body-base: 1.56;
+
+            --font-size-body-small: 13px;
+            --line-height-body-small: 1.75;
+
+            --font-size-body-x-small: 12px;
+            --line-height-body-x-small: 1.85;
+
+            --font-size-navigation-base: 16px;
+
+            /* Shopify pay specific */
+            --payment-terms-background-color: #f5f5f5;
         }
-    
+
         @media (max-width: 45em) {
-          :root {
-            --logo-font-size: 22px;
-    
-            --font-size-heading-1-large: 38px;
-    
-            --font-size-heading-1-base: 28.8px;
-    
-            --font-size-heading-2-large: 22px;
-    
-            --font-size-heading-2-base: 17px;
-    
-            --font-size-heading-3-base: 14px;
-    
-            --font-size-heading-4-base: 12px;
-    
-            --font-size-body-large: 16px;
-    
-            --font-size-body-base: 11.85px;
-    
-            --font-size-body-small: 11px;
-    
-            --font-size-body-x-small: 9px;
-    
-            --font-size-navigation-base: 12.64px;
-          }
+            :root {
+                --logo-font-size: 22px;
+
+                --font-size-heading-1-large: 38px;
+
+                --font-size-heading-1-base: 28.8px;
+
+                --font-size-heading-2-large: 22px;
+
+                --font-size-heading-2-base: 17px;
+
+                --font-size-heading-3-base: 14px;
+
+                --font-size-heading-4-base: 12px;
+
+                --font-size-body-large: 16px;
+
+                --font-size-body-base: 11.85px;
+
+                --font-size-body-small: 11px;
+
+                --font-size-body-x-small: 9px;
+
+                --font-size-navigation-base: 12.64px;
+            }
         }
     </style>
     <link href="./assets/theme.css" rel="stylesheet" type="text/css" media="all">
     <link href="./assets/custom.css" rel="stylesheet" type="text/css" media="all">
     <link rel="alternate" hreflang="x-default" href="https://clindoeilbeaute.ca/">
-    <link rel="alternate" hreflang="fr-FR" href="https://clindoeilbeaute.ca/"><link rel="stylesheet" media="screen" href="./assets/accelerated-checkout-backwards-compat.css"
-    crossorigin="anonymous">
+    <link rel="alternate" hreflang="fr-FR" href="https://clindoeilbeaute.ca/">
+    <link rel="stylesheet" media="screen" href="./assets/accelerated-checkout-backwards-compat.css"
+        crossorigin="anonymous">
 </head>
-<body class="template-index header-sticky" data-enable-page-transitions="true" data-enable-reveal-animations="false"
-  data-show-secondary-image-on-hover="true">
-  <div class="page">
 
-    <div class="" id="page-transition-overlay"></div>
-    <script>
-      var pageTransitionOverlay = document.getElementById("page-transition-overlay"),
-        internalReferrer = document.referrer.includes(document.location.origin),
-        winPerf = window.performance,
-        navTypeLegacy = winPerf && winPerf.navigation && winPerf.navigation.type,
-        navType = winPerf && winPerf.getEntriesByType && winPerf.getEntriesByType("navigation")[0] && winPerf.getEntriesByType("navigation")[0].type;
+<body class="template-index header-sticky" data-enable-page-transitions="true" data-enable-reveal-animations="false" data-show-secondary-image-on-hover="true">
+    <div class="page">
+        <div class="" id="page-transition-overlay"></div>
+        <script>
+            var pageTransitionOverlay = document.getElementById("page-transition-overlay"),
+                internalReferrer = document.referrer.includes(document.location.origin),
+                winPerf = window.performance,
+                navTypeLegacy = winPerf && winPerf.navigation && winPerf.navigation.type,
+                navType = winPerf && winPerf.getEntriesByType && winPerf.getEntriesByType("navigation")[0] && winPerf.getEntriesByType("navigation")[0].type;
 
-      if (!internalReferrer || navType !== "navigate" || navTypeLegacy !== 0) {
+            if (!internalReferrer || navType !== "navigate" || navTypeLegacy !== 0) {
 
-        pageTransitionOverlay.className = "active skip-animation";
-        setTimeout(function () {
-          pageTransitionOverlay.className = "skip-animation";
-          setTimeout(function () { pageTransitionOverlay.className = ""; }, 1);
-        }, 1);
-      } else {
-        setTimeout(function () {
-          pageTransitionOverlay.className = "";
-        }, 500);
-      }
-    </script>
+                pageTransitionOverlay.className = "active skip-animation";
+                setTimeout(function () {
+                    pageTransitionOverlay.className = "skip-animation";
+                    setTimeout(function () { pageTransitionOverlay.className = ""; }, 1);
+                }, 1);
+            } else {
+                setTimeout(function () {
+                    pageTransitionOverlay.className = "";
+                }, 500);
+            }
+        </script>
 
-
-
-
-
-    <div class="header__space" data-header-space=""></div>
-
-    <!-- BEGIN sections: header-group -->
-    <div id="shopify-section-sections--21965298041173__announcement-bar"
-      class="shopify-section shopify-section-group-header-group announcement-bar__outer">
-      <div class="
+        <!-- BEGIN sections: header-group -->
+        <div id="shopify-section-sections--21965298041173__announcement-bar"
+            class="shopify-section shopify-section-group-header-group announcement-bar__outer">
+            <div class="
       announcement-bar
       announcement-bar--single-slide
       
     " data-section-id="sections--21965298041173__announcement-bar" data-section-type="announcement-bar"
-        data-timing="3000">
-        <div class="announcement-bar__item ff-body fs-body-x-small is-active is-selected" style="
+                data-timing="3000">
+                <div class="announcement-bar__item ff-body fs-body-x-small is-active is-selected" style="
           --color-background: #6E9B7C;
           --color-gradient-overlay: #6E9B7C;
           --color-gradient-overlay-transparent: rgba(196, 184, 107, 0);
           --color-text: #ffffff;
         " data-announcement="" data-index="0">
-          <div class="announcement-bar__content-wrapper">
-            <div class="announcement-bar__content"><span>
-                <a class="announcement-bar__link color-inherit" href="./pages/notre-histoire">
-                  Nous trouver
-                </a>
-              </span></div>
-          </div>
+                    <div class="announcement-bar__content-wrapper">
+                        <div class="announcement-bar__content"><span>
+                                <a class="announcement-bar__link color-inherit" href="./pages/notre-histoire">
+                                    Nous trouver
+                                </a>
+                            </span></div>
+                    </div>
 
-          <div class="announcement-bar__gradient-gap"></div>
+                    <div class="announcement-bar__gradient-gap"></div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    <div id="shopify-section-sections--21965298041173__header"
-      class="shopify-section shopify-section-group-header-group header__outer-wrapper">
-      
-      <script>
-        // Set heading height at component level
-        const header = document.querySelector('.header__outer-wrapper');
-        document.documentElement.style.setProperty('--height-header', header.offsetHeight + 'px');
-      </script>
-    </div>    
-    {% include header.html %}
-    
-    <main id="main" class="main">
-        {{ content }}
-    </main>
-    
-    {% include footer.html %}
+        <div id="shopify-section-sections--21965298041173__header"
+            class="shopify-section shopify-section-group-header-group header__outer-wrapper">
+
+            <script>
+                // Set heading height at component level
+                const header = document.querySelector('.header__outer-wrapper');
+                document.documentElement.style.setProperty('--height-header', header.offsetHeight + 'px');
+            </script>
+        </div>
+        {% include header.html %}
+
+        <main id="main" class="main">
+            {{ content }}
+        </main>
+
+        {% include footer.html %}
 </body>
 </html>
