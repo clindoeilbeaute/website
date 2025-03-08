@@ -3,7 +3,7 @@ layout: default
 title: Clin d'oeil beauté
 ---
 
-<div class="contact__rte page__rte" style="font-weight: bold; width: 50%; text-align: center">
+<div class="centered-div" style="font-weight: bold">
     <h3>Adresse:</h3>
     <p>220 du Chrysanthème</p>
     <p>Granby, Québec</p>
