@@ -53,10 +53,16 @@
         <div class="header__center">
             <h1 class="header__logo">
                 <a class="header__logo-link" href="https://clindoeilbeaute.ca/" aria-label="Clin d'oeil beauté">
-                    <div class="image js-enabled image--45246673748309 regular-logo">
-                        <img src="/assets/LOGO_OR-01_300x300.png">
+                    <div class="logo-container">
+                        <img src="/assets/LOGO_OR-01_300x300.png" alt="Logo" class="responsive-logo">
                     </div>
                     <style>
+                        .responsive-logo {
+                            max-width: 100%;
+                            height: auto;
+                            display: block; /* Avoids extra spacing around images */
+                        }
+
                         .image--45246673748309 {
                             padding-top: 75.29673590504451%;
                         }
@@ -65,7 +71,7 @@
                         <div class="image image--45246673748309 regular-logo">
                             World
                             <img class="image__img"
-                                src="//gernetic.com/cdn/shop/files/LOGO_OR-01_2048x2048.png?v=1707386090" alt="">
+                                src="/assets/LOGO_OR-01_2048x2048.png?v=1707386090" alt="">
                         </div>
                     </noscript><span class="header__logo-text">Clin d'oeil beauté</span>
                 </a>
