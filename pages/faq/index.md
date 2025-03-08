@@ -3,4 +3,8 @@ layout: default
 title: Clin d'oeil beauté
 ---
 
-En construction
+<div class="centered-div content">
+    <p>
+       En construction
+    </p>
+</div>

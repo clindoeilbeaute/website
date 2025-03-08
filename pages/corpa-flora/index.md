@@ -4,7 +4,7 @@ title: Clin d'oeil beauté
 ---
 
 <div class="centered-div content">
-    <p>
+    <p style="font-style: italic; font-size: large">
         Des ingrédients naturels et biologiques sont en première ligne avec des ingrédients cliniquement testés qui proviennent de la cosméceutique végétale.
     </p>
     <p>
