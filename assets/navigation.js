@@ -126,3 +126,26 @@ export default function Navigation(node) {
 
   return { destroy };
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".navigation__submenu-trigger").forEach(button => {
+        button.addEventListener("click", function () {
+            let parentLi = this.closest("li");
+            let submenu = parentLi.querySelector(".navigation__submenu");
+
+            if (submenu) {
+                let isExpanded = this.getAttribute("aria-expanded") === "true";
+
+                // Toggle aria-expanded attribute
+                this.setAttribute("aria-expanded", !isExpanded);
+
+                // Toggle submenu visibility
+                submenu.style.display = isExpanded ? "none" : "block";
+                submenu.setAttribute("aria-hidden", isExpanded);
+
+                // Call the toggleMenu function from navigation.js
+                toggleMenu(parentLi);
+            }
+        });
+    });
+});
