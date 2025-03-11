@@ -230,28 +230,6 @@
 
 <body class="template-index header-sticky" data-enable-page-transitions="true" data-enable-reveal-animations="false" data-show-secondary-image-on-hover="true">
     <script type="module" src="/assets/navigation.js"></script>
-    <script type="module">
-        document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll(".navigation__submenu-trigger").forEach(button => {
-                button.addEventListener("click", function () {
-                    let parentLi = this.closest("li");
-                    let submenu = parentLi.querySelector(".navigation__submenu");
-        
-                    if (submenu) {
-                        let isExpanded = this.getAttribute("aria-expanded") === "true";
-                        
-                        // Toggle aria-expanded attribute
-                        this.setAttribute("aria-expanded", !isExpanded);
-        
-                        // Toggle submenu visibility
-                        submenu.style.display = isExpanded ? "none" : "block";
-                        submenu.setAttribute("aria-hidden", isExpanded);
-                        toggleMenu(parentLi);
-                    }
-                });
-            });
-        });
-    </script>
     <div class="page">
         <div class="" id="page-transition-overlay"></div>
         <script>
