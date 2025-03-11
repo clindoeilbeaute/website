@@ -246,6 +246,7 @@
                         // Toggle submenu visibility
                         submenu.style.display = isExpanded ? "none" : "block";
                         submenu.setAttribute("aria-hidden", isExpanded);
+                        toggleMenu(parentLi);
                     }
                 });
             });
