@@ -367,51 +367,6 @@
           toggle,
           contains,
         } from '/assets/js/@fluorescent/dom/dist/fluorescent-dom.es.js';
-
-
-        function toggleMenu(el) {
-            const menu = qs('[data-submenu]', el);
-            const menuTrigger = qs('[data-link]', el);
-        
-            if (!contains(menu, 'active')) {
-              // Make sure all lvl 2 submenus are closed before opening another
-              if (el.parentNode.dataset.depth === '1') {
-                closeAll(el.parentNode);
-              } else {
-                closeAll();
-              }
-        
-              menuTrigger.setAttribute('aria-expanded', true);
-              menu.setAttribute('aria-hidden', false);
-              add(menu, 'active');
-            } else {
-              // If the toggle is closing the element from the parent close all internal
-              if (contains(el.parentNode, 'header__links-list')) {
-                closeAll();
-                return;
-              }
-              menuTrigger.setAttribute('aria-expanded', false);
-              menu.setAttribute('aria-hidden', true);
-              remove(menu, 'active');
-            }
-          }
-        
-          // We want to close the menu when anything is clicked that isn't a submenu
-          function handleClick(e) {
-            if (!e.target.closest('[data-submenu-parent]')) {
-              closeAll();
-            }
-          }
-        
-          function closeAll(target = node) {
-            const subMenus = qsa('[data-submenu]', target);
-            const parentTriggers = qsa('[data-parent]', target);
-        
-            remove(subMenus, 'active');
-            subMenus.forEach(sub => sub.setAttribute('aria-hidden', true));
-            parentTriggers.forEach(trig => trig.setAttribute('aria-expanded', false));
-          }
-
         
         export default function Navigation(node) {
           if (!node) return;
@@ -480,32 +435,7 @@
             return contains(document.body, 'user-is-tabbing');
           }
         
-          function toggleMenu(el) {
-            const menu = qs('[data-submenu]', el);
-            const menuTrigger = qs('[data-link]', el);
-        
-            if (!contains(menu, 'active')) {
-              // Make sure all lvl 2 submenus are closed before opening another
-              if (el.parentNode.dataset.depth === '1') {
-                closeAll(el.parentNode);
-              } else {
-                closeAll();
-              }
-        
-              menuTrigger.setAttribute('aria-expanded', true);
-              menu.setAttribute('aria-hidden', false);
-              add(menu, 'active');
-            } else {
-              // If the toggle is closing the element from the parent close all internal
-              if (contains(el.parentNode, 'header__links-list')) {
-                closeAll();
-                return;
-              }
-              menuTrigger.setAttribute('aria-expanded', false);
-              menu.setAttribute('aria-hidden', true);
-              remove(menu, 'active');
-            }
-          }
+
         
           // We want to close the menu when anything is clicked that isn't a submenu
           function handleClick(e) {
