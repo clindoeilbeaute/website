@@ -221,6 +221,131 @@
             }
         }
     </style>
+
+<style>
+  /* Basic styles */
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+  }
+
+  /* Navbar container */
+  .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      color: white;
+  }
+
+  /* Hamburger icon */
+  .hamburger {
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+  }
+
+  .hamburger div {
+      width: 30px;
+      height: 4px;
+      background-color: black;
+      margin: 4px 0;
+  }
+
+  /* Main menu */
+  .menu {
+      display: none;
+      flex-direction: column;
+      background-color: #E9F3EB;
+      position: absolute;
+      top: 50px;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+  }
+
+  .menu a {
+      color: black;
+      text-decoration: none;
+      padding: 10px;
+      display: block;
+      text-align: left;
+      z-index: 1000;
+  }
+
+  .menu a:hover {
+      background-color: #E9F3EB;
+  }
+
+  /* Submenu styles */
+  .submenu {
+      display: none;
+      flex-direction: column;
+      background-color: #E9F3EB;
+      margin-left: 15px;
+      z-index: 1000;
+  }
+
+  .submenu a {
+      padding-left: 20px;
+      z-index: 1000;
+  }
+
+  /* Show menu when active */
+  .menu.active {
+      display: flex;
+  }
+
+  .submenu.active {
+      display: flex;
+  }
+
+  /* Responsive: show menu in row on desktop */
+  @media (min-width: 60em) {
+      .menu {
+          display: flex;
+          flex-direction: row;
+          position: static;
+          background: none;
+          width: auto;
+      }
+
+      .hamburger {
+          display: none;
+      }
+
+      .menu a {
+          padding: 10px 20px;
+      }
+
+      .submenu {
+          position: absolute;
+          left: 0;
+          top: 100%;
+          display: none;
+          min-width: 150px;
+          z-index: 1000;
+      }
+
+      .has-submenu {
+          position: relative;
+          z-index: 1000;
+      }
+
+      .has-submenu:hover .submenu {
+          display: flex;
+          z-index: 1000;
+      }
+  }
+
+  /* Arrow indicator for submenus */
+  .arrow {
+      float: right;
+      margin-right: 10px;
+  }
+</style>
+
     <link href="/assets/theme.css" rel="stylesheet" type="text/css" media="all">
     <link href="/assets/custom.css" rel="stylesheet" type="text/css" media="all">
     <link rel="alternate" hreflang="x-default" href="https://clindoeilbeaute.ca/">
@@ -242,6 +367,51 @@
           toggle,
           contains,
         } from '/assets/js/@fluorescent/dom/dist/fluorescent-dom.es.js';
+
+
+        function toggleMenu(el) {
+            const menu = qs('[data-submenu]', el);
+            const menuTrigger = qs('[data-link]', el);
+        
+            if (!contains(menu, 'active')) {
+              // Make sure all lvl 2 submenus are closed before opening another
+              if (el.parentNode.dataset.depth === '1') {
+                closeAll(el.parentNode);
+              } else {
+                closeAll();
+              }
+        
+              menuTrigger.setAttribute('aria-expanded', true);
+              menu.setAttribute('aria-hidden', false);
+              add(menu, 'active');
+            } else {
+              // If the toggle is closing the element from the parent close all internal
+              if (contains(el.parentNode, 'header__links-list')) {
+                closeAll();
+                return;
+              }
+              menuTrigger.setAttribute('aria-expanded', false);
+              menu.setAttribute('aria-hidden', true);
+              remove(menu, 'active');
+            }
+          }
+        
+          // We want to close the menu when anything is clicked that isn't a submenu
+          function handleClick(e) {
+            if (!e.target.closest('[data-submenu-parent]')) {
+              closeAll();
+            }
+          }
+        
+          function closeAll(target = node) {
+            const subMenus = qsa('[data-submenu]', target);
+            const parentTriggers = qsa('[data-parent]', target);
+        
+            remove(subMenus, 'active');
+            subMenus.forEach(sub => sub.setAttribute('aria-hidden', true));
+            parentTriggers.forEach(trig => trig.setAttribute('aria-expanded', false));
+          }
+
         
         export default function Navigation(node) {
           if (!node) return;
@@ -423,8 +593,8 @@
         " data-announcement="" data-index="0">
                     <div class="announcement-bar__content-wrapper">
                         <div class="announcement-bar__content"><span>
-                                <a class="announcement-bar__link color-inherit" href="/pages/notre-histoire">
-                                    Nous trouver
+                                <a class="announcement-bar__link color-inherit" href="/pages/coordonnees">
+                                    Coordonnées
                                 </a>
                             </span></div>
                     </div>
