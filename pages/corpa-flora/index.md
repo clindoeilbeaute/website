@@ -3,6 +3,27 @@ layout: default
 title: Clin d'oeil beauté
 ---
 
+
+<style>
+.image-container {
+    display: flex;
+    flex-direction: column; /* Stack images vertically */
+    align-items: center; /* Center images horizontally */
+    justify-content: space-between; /* Push top image to top and bottom image to bottom */
+}
+
+.container {
+    display: flex; /* Arrange children in a row */
+    gap: 10%; /* Space between divs */
+    justify-content: center
+}
+
+.box {
+    display: flex;
+    align-items: center;
+}
+</style>
+
 <div class="centered-div content">
     <p style="font-style: italic; font-size: large">
         Des ingrédients naturels et biologiques sont en première ligne avec des ingrédients cliniquement testés qui proviennent de la cosméceutique végétale.
@@ -13,12 +34,21 @@ title: Clin d'oeil beauté
     <div>
         <p><h2>Une fondatrice, une compagnie et des produits fièrement québécois!</h2></p>
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 150px"/>
+        <div class="container">
+            <div class="image-container box">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 100px; vertical-align: top"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 100px"/>
+            </div>
 
-        <img src="https://static.wixstatic.com/media/bb7267_9005b54ca2f14782a0311cb1bcc32c8c~mv2.jpg/v1/crop/x_0,y_399,w_3840,h_4961/fill/w_439,h_728,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1X2A3299_JPG.jpg"
-        style="width: auto; height: 250px"/>
-
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 150px"/>
+            <div class="box">
+                <img src="https://static.wixstatic.com/media/bb7267_9005b54ca2f14782a0311cb1bcc32c8c~mv2.jpg/v1/crop/x_0,y_399,w_3840,h_4961/fill/w_439,h_728,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1X2A3299_JPG.jpg" style="width: auto; height: 250px"/>
+            </div>
+            
+            <div class="image-container box">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 100px; vertical-align: top"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Fleur_de_lys_du_qu%C3%A9bec.svg" style="width: auto; height: 100px"/>
+            </div>
+        </div>
 
         <p><h2>Céline Champigny, une personne « hybride » entre la science et l’art</h2></p>
 
