@@ -4,7 +4,7 @@ title: Clin d'oeil beauté
 ---
 
 <div class="centered-div content">
-    <h3>Soin du visage spécialisé Bio-Therapeutic  </h3>
+    <h2>Soin du visage spécialisé Bio-Therapeutic  </h2>
     <p>
 La gamme de produits Bio-Therapeutic est sans sulfate et sans parabène. Formulée à base d’eau, il s’agit d’une gamme biologique, non testée sur les animaux et approuvée par Santé Canada. Les produits sont versatiles et ils conviennent bien à tous les types de peau (grasse, mixte, sèche, délicate, mature...).
 </p>
@@ -16,29 +16,28 @@ Le micro courant permet de désincruster votre peau à 100% tout en faisant mieu
 </p>
 <p> 
 Le traitement facial spécialisé Bio-Therapeutic agit entre autres sur ces types de problématiques : 
-<ul>
-<li>
-Perte d'élasticité et de collagène 
-</li>
-<li>
-Teint terne 
-</li>
-<li>
-Acné 
-</li>
-<li>
-Orifices folliculaires dilatés (pores de la peau dilatés) 
-</li>
-<li>
-Signes du vieillissement 
-</li>
-<li>
-Couperose et rosacée 
-</li>
-<li>
-… et plus encore! 
-</li>
-<li>
-</ul>
-    </p>
+</p>
 </div>
+<ul>
+    <li>
+    Perte d'élasticité et de collagène 
+    </li>
+    <li>
+    Teint terne 
+    </li>
+    <li>
+    Acné 
+    </li>
+    <li>
+    Orifices folliculaires dilatés (pores de la peau dilatés) 
+    </li>
+    <li>
+    Signes du vieillissement 
+    </li>
+    <li>
+    Couperose et rosacée 
+    </li>
+    <li>
+    … et plus encore! 
+    </li>
+</ul>
