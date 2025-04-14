@@ -14,7 +14,7 @@ title: Clin d'oeil beauté
           </div>
         </div>
         <div class="slideshow__content-wrapper">
-          <div class="slideshow__content slideshow__content--h-center slideshow__content--v-bottom" style="--max-width-content: 50rem">
+          <div class="slideshow__content slideshow__content--h-center slideshow__content--v-bottom" style="height:80%">
             <div class="slideshow__content-inner">
               <h4 class="slideshow__heading ff-heading animation-fade-up-split-reveal animation-initialized">
                 Soin du visage GERnétic et vente de produits sur place.
