@@ -18,7 +18,7 @@ title: Clin d'oeil beauté
     </p>
     <div>
       Le traitement facial spécialisé Bio-Therapeutic agit entre autres sur ces types de problématiques : 
-      <div style="text-align: center;">
+      <div style="text-align: center; margin-top: -10px">
           <ul style="display: inline-block; text-align: left;">
               <li>
               Perte d'élasticité et de collagène 

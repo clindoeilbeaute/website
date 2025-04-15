@@ -3,52 +3,32 @@ layout: default
 title: Clin d'oeil beauté
 ---
 <div class="centered-div content">
-    <ul>
-        <li>
-            Rehaussement (lash lift) Vegan AVEC teinture des cils du haut : 76$ (taxes incluses)
-        </li>
-        <li>
-            Rehaussement (lash lift) Vegan AVEC teinture des cils du haut > Prix spécial étudiant : 60$ (taxes incluses)
-        </li>
-    </ul>
-    <p>
-        Durée : ~1h15
-        (fiche client obligatoire à remplir au premier rendez-vous : ~15 minutes)
-    </p>
-    <ul>
-        <li>
-            Teinture cils du haut OU du bas : 20$ (taxes incluses)
-        </li>
-    </ul>
-    <p>
-        Durée : ~30 minutes
-        (fiche client obligatoire à remplir au premier rendez-vous : ~15 minutes)
-    </p>
-
-Quels sont les AVANTAGES du rehaussement de cils ?
-    <ul>
-        <li>
-            Des cils plus courbés et plus foncés
-        </li>
-        <li>
-            Ouvre le regard
-        </li>
-        <li>
-            Mise en valeur de vos cils naturels
-        </li>
-        <li>
-            Pas besoin de maquillage (donne l’impression que vous portez déjà du mascara)
-        </li>
-        <li>
-            Possibilité d’appliquer du mascara 48 heures après votre traitement (si vous désirez un effet encore plus grandiose)
-        </li>
-        <li>
-            Aucun entretien ni traitement requis pendant plusieurs semaines
-        </li>
-        <li>
-            La teinture ajoute de la définition et de la structure à l’ensemble du visage
-        </li>
-    </ul>
+    Quels sont les AVANTAGES du rehaussement de cils ?
+    <div style="text-align: center; width: 50%">
+        <ul style="text-align: left">
+            <li>
+                Des cils plus courbés et plus foncés
+            </li>
+            <li>
+                Ouvre le regard
+            </li>
+            <li>
+                Mise en valeur de vos cils naturels
+            </li>
+            <li>
+                Pas besoin de maquillage (donne l’impression que vous portez déjà du mascara)
+            </li>
+            <li>
+                Possibilité d’appliquer du mascara 48 heures après votre traitement (si vous désirez un effet encore plus grandiose)
+            </li>
+            <li>
+                Aucun entretien ni traitement requis pendant plusieurs semaines
+            </li>
+            <li>
+                La teinture ajoute de la définition et de la structure à l’ensemble du visage
+            </li>
+        </ul>
+    </div>    
 Un rehaussement de cils dure entre 6 et 8 semaines, mais cela peut varier d’une personne à l’autre.
     <h3>MON CHOIX DE PRODUITS POUR VOTRE TRAITEMENT</h3>
     <p>

@@ -51,8 +51,15 @@ title: Clin d'oeil beauté
                 <td>1h15</td>
             </tr>
             <tr>
-                <td>Facial <b>GERnétic anti-âge</b> (spécialisé pour peaux matures)</td>
-                <td>95$</td>
+                <td>
+                    <div>
+                        Facial <b>GERnétic anti-âge</b> (spécialisé pour peaux matures)
+                    </div>
+                    <div style="margin-left: 20%">
+                        + Ampoules Tenseur Flash (effet immédiat sur les rides)
+                    </div>                
+                </td>
+                <td><div>95$</div><div>+12$</div></td>
                 <td>1h15</td>
             </tr>
             <tr>
