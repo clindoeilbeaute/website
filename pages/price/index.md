@@ -24,7 +24,7 @@ title: Clin d'oeil beauté
     <table>
         <thead>
             <tr>
-                <th>Soins</th>
+                <th style="font-size: x-large">Soins des cils</th>
                 <th>Prix (taxes incluses)</th>
                 <th>Durée approximative*</th>
             </tr>
@@ -45,8 +45,25 @@ title: Clin d'oeil beauté
                 <td>20$</td>
                 <td>30 min</td>
             </tr>
+        </tbody>
+        <tfoot>
             <tr>
-                <td>Facial <b>Corpa-Flora</b> (naturel et bio) adapté à <u>VOTRE type de peau</u></td>
+                <th colspan="3">*Fiche client obligatoire à remplir au premier rendez-vous : ~15 minutes</th>
+            </tr>
+        </tfoot>
+    </table>
+    <p></p>
+    <table>
+        <thead>
+            <tr>
+                <th style="font-size: x-large">Soins du visage</th>
+                <th>Prix (taxes incluses)</th>
+                <th>Durée approximative*</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Facial <b>Corpa Flora</b> (naturel et bio) adapté à <u>votre type de peau</u></td>
                 <td>82$</td>
                 <td>1h15</td>
             </tr>
@@ -56,15 +73,22 @@ title: Clin d'oeil beauté
                         Facial <b>GERnétic anti-âge</b> (spécialisé pour peaux matures)
                     </div>
                     <div style="margin-left: 20%">
-                        + Ampoules Tenseur Flash (effet immédiat sur les rides)
+                        + Ampoule Tenseur Flash (effet immédiat sur les rides)
                     </div>                
                 </td>
                 <td><div>95$</div><div>+12$</div></td>
                 <td>1h15</td>
             </tr>
             <tr>
-                <td>Facial <b>GERnétic rougeurs et peaux sensibles</b> (spécialisé pour rosacé/couperose et peaux fragiles)</td>
-                <td>95$</td>
+                <td>
+                    <div>
+                        Facial <b>GERnétic rougeurs et peaux sensibles</b> (spécialisé pour rosacé/couperose et peaux fragiles)
+                    </div>
+                    <div style="margin-left: 20%">
+                        + Ampoule Sensi Boost (effet calmant et estompe les rougeurs)
+                    </div>       
+                </td>
+                <td><div>95$</div><div>+12$</div></td>
                 <td>1h15</td>
             </tr>
             <tr>
@@ -77,6 +101,23 @@ title: Clin d'oeil beauté
                 <td>115$</td>
                 <td>1h15</td>
             </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="3">*Fiche client obligatoire à remplir au premier rendez-vous : ~15 minutes</th>
+            </tr>
+        </tfoot>
+    </table>
+    <p></p>
+    <table>
+        <thead>
+            <tr>
+                <th style="font-size: x-large">Soins spécialisés</th>
+                <th>Prix (taxes incluses)</th>
+                <th>Durée approximative*</th>
+            </tr>
+        </thead>
+        <tbody>
             <tr>
                 <td><b>Bio microneedling</b> (<b>naturel</b>, sans aiguilles)</td>
                 <td>225$</td>
