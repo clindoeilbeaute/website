@@ -16,31 +16,31 @@ title: Clin d'oeil beauté
     <p> 
     Le micro courant permet de désincruster votre peau à 100% tout en faisant mieux pénétrer les crèmes et les sérums Bio-Therapeutic qui font partie de ce soin du visage. Ce procédé passe au-delà de la barrière épidermique afin de stimuler le collagène et l'élastine de votre peau. La combinaison de ces produits et de cet appareil micronisé n’est pas qu’un simple facial… Comparativement à un traitement facial manuel (traditionnel), cette technique innovante avec exfoliation par ultrasons permet une amélioration allant jusqu’à 67% de plus, selon les différents problèmes de peau. 
     </p>
-    <p> 
-    Le traitement facial spécialisé Bio-Therapeutic agit entre autres sur ces types de problématiques : 
-    </p>
-    <div style="text-align: center;">
-        <ul style="display: inline-block; text-align: left;">
-            <li>
-            Perte d'élasticité et de collagène 
-            </li>
-            <li>
-            Teint terne 
-            </li>
-            <li>
-            Acné 
-            </li>
-            <li>
-            Orifices folliculaires dilatés (pores de la peau dilatés) 
-            </li>
-            <li>
-            Signes du vieillissement 
-            </li>
-            <li>
-            Couperose et rosacée 
-            </li>
-            … et plus encore! 
-        </ul>
+    <div>
+      Le traitement facial spécialisé Bio-Therapeutic agit entre autres sur ces types de problématiques : 
+      <div style="text-align: center;">
+          <ul style="display: inline-block; text-align: left;">
+              <li>
+              Perte d'élasticité et de collagène 
+              </li>
+              <li>
+              Teint terne 
+              </li>
+              <li>
+              Acné 
+              </li>
+              <li>
+              Orifices folliculaires dilatés (pores de la peau dilatés) 
+              </li>
+              <li>
+              Signes du vieillissement 
+              </li>
+              <li>
+              Couperose et rosacée 
+              </li>
+              … et plus encore! 
+          </ul>
+      </div>
     </div>
     <style>
     .image-row {

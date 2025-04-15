@@ -46,24 +46,34 @@ title: Clin d'oeil beauté
                 <td>30 min</td>
             </tr>
             <tr>
-                <td></td>
-                <td>20$</td>
-                <td>0h30</td>
+                <td>Facial <b>Corpa-Flora</b> (naturel et bio) adapté à <u>VOTRE type de peau</u></td>
+                <td>82$</td>
+                <td>1h15</td>
             </tr>
             <tr>
-                <td></td>
-                <td>20$</td>
-                <td>0h30</td>
+                <td>Facial <b>GERnétic anti-âge</b> (spécialisé pour peaux matures)</td>
+                <td>95$</td>
+                <td>1h15</td>
             </tr>
             <tr>
-                <td></td>
-                <td>20$</td>
-                <td>0h30</td>
+                <td>Facial <b>GERnétic rougeurs et peaux sensibles</b> (spécialisé pour rosacé/couperose et peaux fragiles)</td>
+                <td>95$</td>
+                <td>1h15</td>
             </tr>
             <tr>
-                <td></td>
-                <td>20$</td>
-                <td>0h30</td>
+                <td>Facial <b>étudiant</b> (adapté à votre type de peau)</td>
+                <td>70$</td>
+                <td>1h15</td>
+            </tr>
+            <tr>
+                <td>Facial <b>Bio-Therapeutic</b> (technologie du micro-courant et exfoliation par ultrasons) </td>
+                <td>115$</td>
+                <td>1h15</td>
+            </tr>
+            <tr>
+                <td><b>Bio microneedling</b> (<b>naturel</b>, sans aiguilles)</td>
+                <td>225$</td>
+                <td>1h15</td>
             </tr>
         </tbody>
         <tfoot>
@@ -72,4 +82,5 @@ title: Clin d'oeil beauté
             </tr>
         </tfoot>
     </table>
+    <p></p>
 </div>
