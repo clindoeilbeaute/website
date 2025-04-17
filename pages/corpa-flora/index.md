@@ -25,6 +25,7 @@ title: Clin d'oeil beauté
 </style>
 
 <div class="centered-div content">
+    <img src="{{ '/assets/images/corpa-flora.png' | relative_url }}" style="height: 200px">
     <p style="font-style: italic; font-size: large">
         Des ingrédients naturels et biologiques sont en première ligne avec des ingrédients cliniquement testés qui proviennent de la cosméceutique végétale.
     </p>

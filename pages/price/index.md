@@ -119,7 +119,7 @@ title: Clin d'oeil beauté
         </thead>
         <tbody>
             <tr>
-                <td><b>Bio Microneedling</b> (<b>naturel</b>, sans aiguilles)</td>
+                <td><b>Bio Microneedling</b> (<b>naturel</b>, sans aiguilles métalliques)</td>
                 <td>225$</td>
                 <td>1h15</td>
             </tr>
