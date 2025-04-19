@@ -37,7 +37,7 @@ title: Clin d'oeil beauté
         <div class="slideshow__content-wrapper">
           <div class="slideshow__content slideshow__content--h-center slideshow__content--v-bottom" style="height:50%">
             <div class="slideshow__content-inner">
-              <h4 class="slideshow__heading ff-heading animation-fade-up-split-reveal animation-initialized" style="font-size: 5em;">
+              <h4 class="slideshow__heading ff-heading animation-fade-up-split-reveal animation-initialized" style="font-size: 4em;">
                 Soin du visage Corpa Flora et vente de produits sur place.
               </h4>
             </div>
