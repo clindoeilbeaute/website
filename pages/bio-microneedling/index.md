@@ -5,7 +5,7 @@ title: Clin d'oeil beauté
 
 <div class="centered-div content">
     <p>
-        Le <b>BIO MICRONEEDLING</b> est un traitement cutané <b>plus sûr et plus naturel</b> que le microneedlingstandard, car il <b>ne nécessite pas de matériel ou d’aiguilles métalliques</b>.
+        Le <b>BIO MICRONEEDLING</b> est un traitement cutané <b>plus sûr et plus naturel</b> que le microneedling standard, car il <b>ne nécessite pas de matériel ou d’aiguilles métalliques</b>.
     </p>
     <p>
         Des sessions régulières de Bio Microneedling améliorent non seulement l'apparence immédiate dela peau, mais soutiennent également la SANTÉ DE LA PEAU À LONG TERME EN STIMULANT CONTINUELLEMENT LA PRODUCTION DE COLLAGÈNE tout en améliorant sa résilience.
@@ -87,12 +87,13 @@ title: Clin d'oeil beauté
         Bien que les injections de Botox / d’acide hyaluronique et autres fillers offrent des résultats très rapides, les effets secondaires potentiels incluent des ecchymoses, un gonflement et un affaissement musculaire (rare, mais possible). De plus, une utilisation excessive ou UNE APPLICATION INCORRECTE DE BOTOX PEUT ENTRAÎNER DES RÉSULTATS ARTIFICIELS OU UNE ASYMÉTRIE.
      </p>
      <p>   
-        Contrairement au Botox (qui est efficace pour les rides dynamiques causées par les mouvements musculaires) et aux fillers (qui ajoutent du volume à des zones spécifiques), le <b>Bio Microneedling</b>
-        stimule naturellement la production de collagène et d'élastine, réduisant progressivement les fines lignes et améliorant l'élasticité de la peau. Il est idéal pour les personnes recherchant des améliorations graduelles et naturelles sans temps d'arrêt significatif. Il nécessite un temps de récupération minimal, permettant aux client.es de reprendre rapidement leurs activités quotidiennes. Les résultats sont subtils et se développent au fil du temps, évitant le look parfois « exagéré » qui peut résulter d'une utilisation des injections.
+        Contrairement au Botox (qui est efficace pour les rides dynamiques causées par les mouvements musculaires) et aux fillers (qui ajoutent du volume à des zones spécifiques), le <b>Bio Microneedling
+        stimule naturellement la production de collagène et d'élastine, réduisant progressivement les fines lignes et améliorant l'élasticité de la peau. Il est idéal pour les personnes recherchant des améliorations graduelles et naturelles sans temps d'arrêt significatif. Il nécessite un temps de récupération minimal, permettant aux client.es de reprendre rapidement leurs activités quotidiennes. Les résultats sont subtils et se développent au fil du temps, évitant le look parfois « exagéré et figé » qui peut résulter d'une utilisation des injections.</b>
      </p>
      <p>
         Comparativement au Botox et aux autres injections qui se limitent à des zones spécifiques du visage, le Bio Microneedling peut être utilisé en toute sécurité SUR L’ENSEMBLE DU VISAGE OU SUR DIVERSES PARTIES DU CORPS POUR TRAITER UN LARGE ÉVENTAIL DE PROBLÈMES CUTANÉS.
      </p>
+     <img src="{{ '/assets/images/42-1.jpg' | relative_url }}" style="width: 40%" >
      <h3>   
         Pourquoi privilégier les micro-aiguilles d’éponges (voire les spicules naturelles de la Spongilla Spicula) au lieu des micro-aiguilles à base d'Algues/Corail ?
      </h3>
