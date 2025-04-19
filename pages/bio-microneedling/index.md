@@ -105,4 +105,24 @@ title: Clin d'oeil beauté
      <p>    
         <b>Les micro-aiguilles bio que j’utilise sont des spicules intacts, généralement de 200 à 300 microns de longueur (pour atteindre la couche basale de la peau), qui favorisent l'autoguérison et la régénération des cellules cutanées.</b> Quant aux aiguilles d'algues/corail, elles sont cassées et fracturées, ce qui signifie qu’elles ont une capacité limitée à stimuler la zone ciblée et à offrir un traitement stable et de qualité.
     </p>
+    <p>
+        <h4>PERTE DE FERMETÉ, RIDES ET RIDULES.</h4>
+        <img src="{{ '/assets/images/bm1.jpg' | relative_url }}" style="width: 50%">
+        <img src="{{ '/assets/images/bm1a.jpg' | relative_url }}" style="width: 50%">
+        <h4>PERTE DE FERMETÉ ET MANQUE D’ÉLASTICITÉ, PROBLÈMES DE TEXTURE / CICATRICES /RÉGÉNÉRATION.</h4>
+        <img src="{{ '/assets/images/bm1b.jpg' | relative_url }}" style="width: 50%">
+        <h4>TEINT TERNE, PROBLÈMES DE FERMETÉ / TEXTURE / PIGMENTATION.</h4>
+        <img src="{{ '/assets/images/bm2.jpg' | relative_url }}" style="width: 50%">
+        <h4>PROBLÈMES DE PEAU : INFLAMMATION, ROSACÉE, PORES DILATÉS AVEC POINTS NOIRS ETBLANCS, RÉGÉNÉRATION CUTANÉE LENTE / CICATRICES.</h4>
+        <img src="{{ '/assets/images/bm4.jpg' | relative_url }}" style="width: 50%">
+        <img src="{{ '/assets/images/bm4a.jpg' | relative_url }}" style="width: 50%">
+        <img src="{{ '/assets/images/bm4b.jpg' | relative_url }}" style="width: 50%">
+        <h4>PROBLÈMES DE PEAU : ACNÉ, INFLAMMATION, TEINT TERNE.</h4>
+        <img src="{{ '/assets/images/bm3b.jpg' | relative_url }}" style="width: 50%">
+        <div>
+            <img src="{{ '/assets/images/bm3a.png' | relative_url }}" style="width: 30%">
+            <img src="{{ '/assets/images/bm3.png' | relative_url }}" style="width: 30%">
+        </div>
+    </p>
+
 </div>

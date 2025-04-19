@@ -23,6 +23,29 @@ title: Clin d'oeil beauté
 }
 </style>
 
+<div style="--desktop-height: 55vh; --mobile-height: 100vh; --color-dot: #ffffff;">
+    <div class="flickity-viewport" style="height: 454.075px; touch-action: pan-y;">
+        <div class="slideshow__cell is-visible is-selected" data-slide="" data-index="2"
+          style="--color-background-button: #ffffff; --color-background-button-hover: #cccccc; --slide-color-text: #ffffff; --color-text-button: #181818; --color-overlay: #000000; --overlay-opacity: 0.08; --text-shadow-amount: 0.0; --text-shadow-amount-lesser: -0.04; --heading-font-size: 48px; position: absolute; left: 200%;">
+          <div class="slideshow__asset">
+            <div
+              class="image js-enabled image--style-disabled slideshow__image-wrapper slideshow__image--desktop animation-initialized"
+              style="--focal-alignment: left center; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+            <img class="image__img lazyautosizes lazyloaded" src="{{ '/assets/images/CFlora.png' | relative_url }}">
+          </div>
+        </div>
+        <div class="slideshow__content-wrapper">
+          <div class="slideshow__content slideshow__content--h-center slideshow__content--v-bottom" style="height:50%">
+            <div class="slideshow__content-inner">
+              <h4 class="slideshow__heading ff-heading animation-fade-up-split-reveal animation-initialized" style="font-size: 5em;">
+                Soin du visage Corpa Flora et vente de produits sur place.
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
 <div class="centered-div content">
     <img src="{{ '/assets/images/corpa-flora.png' | relative_url }}" style="height: 200px">
     <h2>
@@ -41,7 +64,7 @@ title: Clin d'oeil beauté
         <p>
             Céline Champigny, la fondatrice de Corpa Flora, a travaillé pendant plus de 20 ans dans des laboratoires de recherche académiques universitaires à Montréal et à Toronto. Elle a commencé sa carrière comme assistante de recherche au département de biochimie de l'Université McGill à la fin des années 80. Elle a ensuite travaillé comme technicienne de laboratoire pour des chercheurs reconnus comme le Dr Janet Rossant, une biologiste du développement embryonnaire de renommée mondiale (l'un des premiers laboratoires au monde à démontrer la polyvalence des cellules souches).  Ayant un intérêt profond pour l’introduction des lipides/huiles dans les soins cutanés, elle créa en 2012 sa société spécialisée dans le développement de complexes lipidiques topiques. Céline Champigny a su développer des <b>produits nouveaux et efficaces qui se distinguent de la compétition</b>. 
         </p>
-        <h2>Une compagnie fièrement Québecoise</h2>
+        <h2>Une compagnie fièrement québecoise</h2>
         <p>
             Corpa Flora est fière de fabriquer presque tous ses produits dans leur propre laboratoire, ici à Montréal, avec leurs propres méthodes de production. Leurs produits sont développés, fabriqués, emballés et expédiés sous le même toit, pour parvenir directement à leurs clients et partenaires d'affaires. Il leur arrive de collaborer avec d'autres entreprises lorsqu’ils ne disposent pas de la technologie nécessaire pour fabriquer des produits spécifiques (comme le masque en biocellulose) et ils utilisent également les services d'un laboratoire privé afin d’effectuer toutes les analyses requises pour assurer la qualité et la conformité règlementaire de leurs formules. 
         </p>
