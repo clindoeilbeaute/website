@@ -34,3 +34,53 @@ ul {
 .slideshow__content-wrapper {
     z-index: 2;
 }
+
+/* Footer styles */
+.site-footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 2rem 0;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+.footer-nav {
+    margin-bottom: 1.5rem;
+}
+
+.contact-link {
+    color: #ffffff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.contact-link:hover {
+    opacity: 0.8;
+}
+
+.footer-divider {
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin: 1.5rem auto;
+    width: 80%;
+}
+
+.footer-credits {
+    font-size: 0.875rem;
+}
+
+.footer-credits a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.footer-credits a:hover {
+    opacity: 0.8;
+}
