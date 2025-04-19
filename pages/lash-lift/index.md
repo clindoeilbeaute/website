@@ -16,39 +16,37 @@ title: Clin d'oeil beauté
                 Mise en valeur de vos cils naturels
             </li>
             <li>
-                Pas besoin de maquillage (donne l’impression que vous portez déjà du mascara)
+                Pas besoin de maquillage (donne l'impression que vous portez déjà du mascara)
             </li>
             <li>
-                Possibilité d’appliquer du mascara 48 heures après votre traitement (si vous désirez un effet encore plus grandiose)
+                Possibilité d'appliquer du mascara 48 heures après votre traitement (si vous désirez un effet encore plus grandiose)
             </li>
             <li>
                 Aucun entretien ni traitement requis pendant plusieurs semaines
             </li>
             <li>
-                La teinture ajoute de la définition et de la structure à l’ensemble du visage
+                La teinture ajoute de la définition et de la structure à l'ensemble du visage
             </li>
         </ul>
     </div>
     <p>
-        Un rehaussement de cils dure entre 6 et 8 semaines, mais cela peut varier d’une personne à l’autre.
+        Un rehaussement de cils dure entre 6 et 8 semaines, mais cela peut varier d'une personne à l'autre.
     </p>
+    <h3>MON CHOIX DE PRODUITS POUR VOTRE TRAITEMENT</h3>
     <div>
-        <h3>MON CHOIX DE PRODUITS POUR VOTRE TRAITEMENT</h3>
-        <div>
-            Mes produits de rehaussement de cils sont vendus uniquement aux techniciennes et aux professionnelles. Puisqu’il m’importe d’offrir un traitement ayant la meilleure formule de l’industrie, la gamme que j’utilise est le résultat de nombreuses années de recherche. Cette gamme a développé sa formule exclusive dans des laboratoires en Italie par une équipe de chimistes qui s’est consacrée à la création de produits à la fois efficaces et sûrs, tout en combinant excellence, résultats et intégrité. Ce sont donc des produits qui ne peuvent pas endommager ni brûler les cils naturels!
-        </div>
-        Il s’agit de formulations :
-        <ul style="text-align: left; margin-left: 30%; margin-top: 0">
-            <li>véganes</li>
-            <li>testées en ophtalmologie</li>
-            <li>pas testées sur les animaux</li>
-            <li>sans bromate de sodium ni bromate de potassium</li>
-            <li>avec panthénol pour bien nourrir les cils</li>
-            <li>avec kératine végétale pour renforcer les cils</li>
-            <li>avec acide hyaluronique pour donner du volume</li>
-            <li>développées et fabriquées en Italie <span style="font-size: 1.5rem; vertical-align: middle;">🇮🇹</span></li>
-        </ul>
+        Mes produits de rehaussement de cils sont vendus uniquement aux techniciennes et aux professionnelles. Puisqu'il m'importe d'offrir un traitement ayant la meilleure formule de l'industrie, la gamme que j'utilise est le résultat de nombreuses années de recherche. Cette gamme a développé sa formule exclusive dans des laboratoires en Italie par une équipe de chimistes qui s'est consacrée à la création de produits à la fois efficaces et sûrs, tout en combinant excellence, résultats et intégrité. Ce sont donc des produits qui ne peuvent pas endommager ni brûler les cils naturels!
     </div>
+    Il s'agit de formulations :
+    <ul>
+        <li>véganes</li>
+        <li>testées en ophtalmologie</li>
+        <li>pas testées sur les animaux</li>
+        <li>sans bromate de sodium ni bromate de potassium</li>
+        <li>avec panthénol pour bien nourrir les cils</li>
+        <li>avec kératine végétale pour renforcer les cils</li>
+        <li>avec acide hyaluronique pour donner du volume</li>
+        <li>développées et fabriquées en Italie <span style="font-size: 1.5rem; vertical-align: middle;">🇮🇹</span></li>
+    </ul>
     <h3><b>AVANT</b> LE TRAITEMENT (préparatifs) :</h3>
     <p>
         Vous devez vous présenter au rendez-vous complètement démaquillée, sans faux cils et sans verres de contact. Idéalement 24-48h avant la procédure, vous ne devez pas avoir utilisé de démaquillant à base d'huile ni d'eau micellaire.
@@ -58,7 +56,7 @@ title: Clin d'oeil beauté
         <b>IMPORTANT / à prévoir</b> : Évitez de remettre vos lentilles de contact pendant 24 à 48 heures.
         Pendant 24 à 48 heures : ÉVITEZ de vous frotter les yeux. Veiller à ne pas appliquer de mascara ni à vous laver les yeux ou les cheveux (pour garder les cils secs pendant 24 à 48 heures). Éviter la natation, le sauna et la transpiration. Ne vous maquillez pas et ne recevez aucun autre traitement pour les yeux pendant au moins 24 à 48 heures après le traitement.
         Pour préserver votre coloration de cils, évitez également les nettoyants pour le visage qui contiennent des AHA ou d'autres exfoliants chimiques qui sont trop agressifs (utilisez plutôt un nettoyant ou un démaquillant doux pour le visage et les yeux). Autour du contour des yeux, essayez d'utiliser des produits sans huile (pour prolonger la couleur de la teinture).
-        Vous pouvez sans problème vous faire poser des extensions de cils, mais il est recommandé d’attendre au moins 48 heures.
+        Vous pouvez sans problème vous faire poser des extensions de cils, mais il est recommandé d'attendre au moins 48 heures.
     </p>
     <h3>CONSEILS :</h3>
     <p>
