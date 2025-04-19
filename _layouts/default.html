@@ -237,6 +237,7 @@
       align-items: center;
       padding: 10px 20px;
       color: white;
+      position: relative;
   }
 
   /* Hamburger icon */
@@ -244,6 +245,8 @@
       display: flex;
       flex-direction: column;
       cursor: pointer;
+      position: relative;
+      z-index: 2000;
   }
 
   .hamburger div {
@@ -251,6 +254,7 @@
       height: 4px;
       background-color: black;
       margin: 4px 0;
+      transition: all 0.3s ease;
   }
 
   /* Main menu */
@@ -262,7 +266,8 @@
       top: 50px;
       left: 0;
       width: 100%;
-      z-index: 1000;
+      z-index: 1500;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
   .menu a {
@@ -271,7 +276,7 @@
       padding: 10px;
       display: block;
       text-align: left;
-      z-index: 1000;
+      z-index: 1500;
   }
 
   .menu a:hover {
@@ -284,12 +289,13 @@
       flex-direction: column;
       background-color: #E9F3EB;
       margin-left: 15px;
-      z-index: 1000;
+      z-index: 1500;
+      position: relative;
   }
 
   .submenu a {
       padding-left: 20px;
-      z-index: 1000;
+      z-index: 1500;
   }
 
   /* Show menu when active */
@@ -325,17 +331,18 @@
           top: 100%;
           display: none;
           min-width: 150px;
-          z-index: 1000;
+          z-index: 1500;
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
       }
 
       .has-submenu {
           position: relative;
-          z-index: 1000;
+          z-index: 1500;
       }
 
       .has-submenu:hover .submenu {
           display: flex;
-          z-index: 1000;
+          z-index: 1500;
       }
   }
 
