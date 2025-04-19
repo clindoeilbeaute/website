@@ -82,7 +82,7 @@ title: Clin d'oeil beauté
             <tr>
                 <td>
                     <div>
-                        Facial <b>GERnétic rougeurs et peaux sensibles</b> (spécialisé pour rosacé/couperose et peaux fragiles)
+                        Facial <b>GERnétic rougeurs et peaux sensibles</b> (spécialisé pour rosacée/couperose et peaux fragiles)
                     </div>
                     <div style="margin-left: 20%">
                         + Ampoule Sensi Boost (effet calmant et estompe les rougeurs)

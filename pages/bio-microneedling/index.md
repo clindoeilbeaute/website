@@ -36,6 +36,8 @@ title: Clin d'oeil beauté
     <p>
         Ce traitement peut être pratiqué sur pratiquement toutes les parties du visage ou du corps.
     </p>
+    <img src="{{ '/assets/images/rosace.png' | relative_url }}" style="width: 50%" >
+    <img src="{{ '/assets/images/before-after.jpg' | relative_url }}" style="width: 50%" >
     <h3>
         DES PRODUITS D’ORIGINE MARINE…
     </h3>
