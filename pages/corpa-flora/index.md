@@ -69,7 +69,7 @@ title: Clin d'oeil beauté
             Corpa Flora est fière de fabriquer presque tous ses produits dans leur propre laboratoire, ici à Montréal, avec leurs propres méthodes de production. Leurs produits sont développés, fabriqués, emballés et expédiés sous le même toit, pour parvenir directement à leurs clients et partenaires d'affaires. Il leur arrive de collaborer avec d'autres entreprises lorsqu’ils ne disposent pas de la technologie nécessaire pour fabriquer des produits spécifiques (comme le masque en biocellulose) et ils utilisent également les services d'un laboratoire privé afin d’effectuer toutes les analyses requises pour assurer la qualité et la conformité règlementaire de leurs formules. 
         </p>
         <p>
-            Corpa Flora a remporté le Grand Prix de la Meilleure Innovation du Canadian Beauty Group en 2014 pour son huile nettoyante et démaquillante BEAUTÉ DIVINE. L’huile s’est distinguée sur le marché canadien en tant qu'huile démaquillante comparable à celle de Shu Uemura, mais sans huile minérale ni dérivés pétrochimiques. BEAUTÉ DIVINE a également remporté le prix du meilleur nettoyant pour le visage de CLEAN CARE en 2015.
+            Corpa Flora a remporté le Grand Prix de la Meilleure Innovation du Canadian Beauty Group en 2014 pour son huile nettoyante et démaquillante BEAUTÉ DIVINE. L'huile s'est distinguée sur le marché canadien en tant qu'huile démaquillante comparable à celle de Shu Uemura, mais sans huile minérale ni dérivés pétrochimiques. BEAUTÉ DIVINE a également remporté le prix du meilleur nettoyant pour le visage de CLEAN CARE en 2015.
         </p> 
-    <div>
+    </div>
 </div>

@@ -97,8 +97,12 @@ title: Clin d'oeil beauté
                 <td>1h15</td>
             </tr>
             <tr>
-                <td>Facial <b>Bio-Therapeutic</b> (technologie du micro-courant et exfoliation par ultrasons) </td>
-                <td>115$</td>
+                <td>Facial <b>Bio-Therapeutic</b> (technologie du micro-courant et exfoliation par ultrasons)
+                    <div style="margin-left: 20%">
+                        + Ampoule: Sérum coup d'éclat
+                    </div>   
+                </td>
+                <td><div>115$</div><div>+10$</div></td>
                 <td>1h15</td>
             </tr>
         </tbody>

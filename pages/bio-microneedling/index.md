@@ -20,7 +20,7 @@ title: Clin d'oeil beauté
         LE BIO MICRONEEDLING EST UTILISÉ POUR CORRIGER QUOI?
     </h4>
     <ul>
-        <li>les rides</li>
+        <li><a href="#ride">les rides</a></li>
         <li>l'acné</li>
         <li>la pigmentation</li>
         <li>les pores dilatés</li>
@@ -107,12 +107,12 @@ title: Clin d'oeil beauté
     </p>
         <h3>SOLUTIONS PERSONNALISÉES de traitement Bio Microneedling:<h3>
     <p>
-        <h3>PERTE DE FERMETÉ, RIDES ET RIDULES.</h3>
+        <h3 id="ride">PERTE DE FERMETÉ, RIDES ET RIDULES.</h3>
         <img src="{{ '/assets/images/bm1.jpg' | relative_url }}" style="width: 50%">
         <img src="{{ '/assets/images/bm1a.jpg' | relative_url }}" style="width: 50%">
     </p>
     <p>
-        <h3>PERTE DE FERMETÉ ET MANQUE D’ÉLASTICITÉ, PROBLÈMES DE TEXTURE / CICATRICES /RÉGÉNÉRATION.</h3>
+        <h3>PERTE DE FERMETÉ ET MANQUE D’ÉLASTICITÉ, PROBLÈMES DE TEXTURE / CICATRICES / RÉGÉNÉRATION.</h3>
         <img src="{{ '/assets/images/bm1b.jpg' | relative_url }}" style="width: 50%">
     </p>
     <p>
@@ -120,7 +120,7 @@ title: Clin d'oeil beauté
         <img src="{{ '/assets/images/bm2.jpg' | relative_url }}" style="width: 50%">
     </p>
     <p>
-        <h3>PROBLÈMES DE PEAU : INFLAMMATION, ROSACÉE, PORES DILATÉS AVEC POINTS NOIRS ETBLANCS, RÉGÉNÉRATION CUTANÉE LENTE / CICATRICES.</h3>
+        <h3>PROBLÈMES DE PEAU : INFLAMMATION, ROSACÉE, PORES DILATÉS AVEC POINTS NOIRS ET BLANCS, RÉGÉNÉRATION CUTANÉE LENTE / CICATRICES.</h3>
         <img src="{{ '/assets/images/bm4.jpg' | relative_url }}" style="width: 50%">
         <img src="{{ '/assets/images/bm4a.jpg' | relative_url }}" style="width: 50%">
         <img src="{{ '/assets/images/bm4b.jpg' | relative_url }}" style="width: 50%">
