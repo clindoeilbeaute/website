@@ -83,7 +83,7 @@ title: Clin d'oeil beauté
                         + Ampoule Tenseur Flash (effet immédiat sur les rides)
                     </div>                
                 </td>
-                <td><div>95$</div><div>+12$</div></td>
+                <td><div>95$</div><div>+10$</div></td>
                 <td>1h15</td>
             </tr>
             <tr>
@@ -95,7 +95,7 @@ title: Clin d'oeil beauté
                         + Ampoule Sensi Boost (effet calmant et estompe les rougeurs)
                     </div>       
                 </td>
-                <td><div>95$</div><div>+12$</div></td>
+                <td><div>95$</div><div>+10$</div></td>
                 <td>1h15</td>
             </tr>
             <tr>
@@ -109,7 +109,7 @@ title: Clin d'oeil beauté
                         + Ampoule: Sérum coup d'éclat
                     </div>   
                 </td>
-                <td><div>115$</div><div>+10$</div></td>
+                <td><div>115$</div><div>+5$</div></td>
                 <td>1h15</td>
             </tr>
         </tbody>
