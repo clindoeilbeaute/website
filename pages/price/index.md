@@ -39,7 +39,7 @@ title: Clin d'oeil beauté
         <tbody>
             <tr>
                 <td>Rehaussement (lash lift) Vegan AVEC teinture des cils du haut</td>
-                <td>76$</td>
+                <td>75$</td>
                 <td>1h15</td>
             </tr>
              <tr>
