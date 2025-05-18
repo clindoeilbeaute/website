@@ -26,7 +26,7 @@ title: Clin d'oeil beauté
 
 <div class="centered-div content">
     <h2>
-        Pour voir mes <span style="color: black; font-weight: bold;">promotions</span> en cours, cliquez sur ce lien <a href="https://www.facebook.com/profile.php?id=61573572163791&name=xhp_nt__fb__action__open_user">ici</a> et abonnez-vouz!
+        Pour voir mes <span style="color: black; font-weight: bold;">promotions</span> en cours, cliquez sur ce lien <a href="https://www.facebook.com/profile.php?id=61573572163791&name=xhp_nt__fb__action__open_user">ici</a> et abonnez-vous!
     </h2>
     <table>
         <thead>
